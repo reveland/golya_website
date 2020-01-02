@@ -12,4 +12,4 @@ http://golyapresszo.hu/
 
 ## Dev honlap
 
-https://golya-website.herokuapp.com/
+https://golya.herokuapp.com/
